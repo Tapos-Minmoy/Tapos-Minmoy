@@ -19,19 +19,25 @@ University of Chittagong, Chattagram
 ---
 
 ## 💻 Programming Profiles & Stats
+
 <p align="center">
   <!-- Codeforces -->
   <img src="https://img.shields.io/badge/Codeforces–170%20contests-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="CF Contests" />
   <img src="https://img.shields.io/badge/CF%20Problems–1000%2B%20solved-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="CF Problems" />
+  <img src="https://img.shields.io/badge/CF%20Rating–Specialist%201576-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="CF Rating" />
   <br>
+
   <!-- CodeChef -->
   <img src="https://img.shields.io/badge/CodeChef–30%20contests-orange?style=for-the-badge&logo=codechef&logoColor=white" alt="CC Contests" />
   <img src="https://img.shields.io/badge/CC%20Problems–100%2B%20solved-orange?style=for-the-badge&logo=codechef&logoColor=white" alt="CC Problems" />
+  <img src="https://img.shields.io/badge/CC%20Rating–4★%201879-orange?style=for-the-badge&logo=codechef&logoColor=white" alt="CC Rating" />
   <br>
+
   <!-- ICPC & IUPC -->
   <img src="https://img.shields.io/badge/ICPC–2×%20Dhaka%20Region-purple?style=for-the-badge&logo=icpc&logoColor=white" alt="ICPC" />
   <img src="https://img.shields.io/badge/IUPC–20%20national%20contests-green?style=for-the-badge&logo=icpc&logoColor=white" alt="IUPC" />
 </p>
+
 ---
 
 ## 🏆 Achievements
