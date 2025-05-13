@@ -22,14 +22,14 @@ University of Chittagong, Chattagram
 
 <p align="center">
   <!-- Codeforces -->
-   <img src="https://img.shields.io/badge/CF%20Rating–Specialist%201576-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="CF Rating" />
-  <img src="https://img.shields.io/badge/Codeforces–170%20contests-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="CF Contests" />
+   <img src="https://img.shields.io/badge/CF%20Rating–Specialist%201580-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="CF Rating" />
+  <img src="https://img.shields.io/badge/Codeforces–170%20+contests-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="CF Contests" />
   <img src="https://img.shields.io/badge/CF%20Problems–1000%2B%20solved-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="CF Problems" />
 
   <br>
 
   <!-- CodeChef -->
-   <img src="https://img.shields.io/badge/CC%20Rating–4★%201879-orange?style=for-the-badge&logo=codechef&logoColor=white" alt="CC Rating" />
+   <img src="https://img.shields.io/badge/CC%20Rating–4★%201918-orange?style=for-the-badge&logo=codechef&logoColor=white" alt="CC Rating" />
   <img src="https://img.shields.io/badge/CodeChef–30%20contests-orange?style=for-the-badge&logo=codechef&logoColor=white" alt="CC Contests" />
   <img src="https://img.shields.io/badge/CC%20Problems–100%2B%20solved-orange?style=for-the-badge&logo=codechef&logoColor=white" alt="CC Problems" />
  
