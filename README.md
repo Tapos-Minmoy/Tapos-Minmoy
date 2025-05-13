@@ -19,19 +19,21 @@ University of Chittagong, Chattagram
 ---
 
 ## 💻 Programming Profiles & Stats
+## 💻 Programming Profiles & Stats
+
 <p align="center">
-  <a href="https://codeforces.com/profile/Tapos-Minmoy"><img src="https://img.shields.io/badge/Codeforces-Specialist_1580-blue?style=for-the-badge&logo=codeforces" alt="Codeforces"></a>
-  <br>
-  <a href="https://www.codechef.com/users/tapos"><img src="https://img.shields.io/badge/CodeChef-4★_1918-orange?style=for-the-badge&logo=codechef" alt="CodeChef"></a>
-  <a href="https://icpc.global/ICPCID/WK40Q55E71SQ"><img src="https://img.shields.io/badge/ICPC-Participant-purple?style=for-the-badge&logo=icpc" alt="ICPC"></a>
+  <!-- Codeforces -->
+  <img src="https://img.shields.io/badge/Codeforces–170%20contests-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="CF Contests" />
+  <img src="https://img.shields.io/badge/CF%20Problems–1000%2B%20solved-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="CF Problems" />
+
+  <!-- CodeChef -->
+  <img src="https://img.shields.io/badge/CodeChef–30%20contests-orange?style=for-the-badge&logo=codechef&logoColor=white" alt="CC Contests" />
+  <img src="https://img.shields.io/badge/CC%20Problems–100%2B%20solved-orange?style=for-the-badge&logo=codechef&logoColor=white" alt="CC Problems" />
+
+  <!-- ICPC & IUPC -->
+  <img src="https://img.shields.io/badge/ICPC–2×%20Dhaka%20Region-purple?style=for-the-badge&logo=icpc&logoColor=white" alt="ICPC" />
+  <img src="https://img.shields.io/badge/IUPC–20%20national%20contests-green?style=for-the-badge&logo=icpc&logoColor=white" alt="IUPC" />
 </p>
-- Codeforces: 170 contests ▪️ 1000+ problems solved 
- <br>
-- Codeshef: 30 contests ▪️ 100+ problems solved  
-<br>
-- ICPC: 2× Dhaka Regional participations  
-<br>
-- IUPC: 20 national contests
 
 ---
 
