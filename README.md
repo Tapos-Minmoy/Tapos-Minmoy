@@ -98,6 +98,8 @@ University of Chittagong, Chattagram
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tapos-Minmoy&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tapos-Minmoy&theme=radical&hide=Jupyter%20Notebook" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/All--Time%20Commits-90%2B-blue?style=for-the-badge" alt="All-Time Commits">
+</p>
+
