@@ -46,3 +46,8 @@ jobs:
           git add commit-count.json
           git commit -m "chore: update all-time commit count" || echo "No changes"
           git push
+          - name: Authenticate GH CLI
+  env:
+    GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  run: gh auth login --with-token <<< "$GH_TOKEN"
+
