@@ -100,8 +100,7 @@ University of Chittagong, Chattagram
 
 ---
 
-<p align="center">
-  <!-- Static all-time commits badge -->
-  <img src="https://img.shields.io/badge/All--Time%20Commits-90-blue?style=for-the-badge&logo=git&logoColor=white" alt="All-Time Commits" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tapos-Minmoy&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
