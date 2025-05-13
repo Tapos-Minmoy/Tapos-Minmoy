@@ -21,6 +21,7 @@ University of Chittagong, Chattagram
 ## 💻 Programming Profiles & Stats
 <p align="center">
   <a href="https://codeforces.com/profile/Tapos-Minmoy"><img src="https://img.shields.io/badge/Codeforces-Specialist_1580-blue?style=for-the-badge&logo=codeforces" alt="Codeforces"></a>
+  <br>
   <a href="https://www.codechef.com/users/tapos"><img src="https://img.shields.io/badge/CodeChef-4★_1918-orange?style=for-the-badge&logo=codechef" alt="CodeChef"></a>
   <a href="https://icpc.global/ICPCID/WK40Q55E71SQ"><img src="https://img.shields.io/badge/ICPC-Participant-purple?style=for-the-badge&logo=icpc" alt="ICPC"></a>
 </p>
