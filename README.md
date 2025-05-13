@@ -39,7 +39,7 @@ University of Chittagong, Chattagram
   <img src="https://img.shields.io/badge/ICPC–2×%20Dhaka%20Region-purple?style=for-the-badge&logo=icpc&logoColor=white" alt="ICPC" />
   <img src="https://img.shields.io/badge/IUPC–20%20national%20contests-green?style=for-the-badge&logo=icpc&logoColor=white" alt="IUPC" />
 </p>
-  <p>
+  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tapos-Minmoy&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 ---
