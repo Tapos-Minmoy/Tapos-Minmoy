@@ -90,4 +90,6 @@ University of Chittagong, Chattagram
 
 ---
 
-<p align="center"> <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Tapos-Minmoy/Tapos-Minmoy/main/commit-count.json" alt="All-Time Commits"> </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tapos-Minmoy&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
