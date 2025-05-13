@@ -25,10 +25,13 @@ University of Chittagong, Chattagram
   <a href="https://www.codechef.com/users/tapos"><img src="https://img.shields.io/badge/CodeChef-4★_1918-orange?style=for-the-badge&logo=codechef" alt="CodeChef"></a>
   <a href="https://icpc.global/ICPCID/WK40Q55E71SQ"><img src="https://img.shields.io/badge/ICPC-Participant-purple?style=for-the-badge&logo=icpc" alt="ICPC"></a>
 </p>
-- **CF**: 170 contests ▪️ 1 000 problems solved  
-- **CC**: 30 contests ▪️ 100 problems solved  
-- **ICPC**: 2× Dhaka Regional participations  
-- **IUPC**: 20 national contests
+- Codeforces: 170 contests ▪️ 1000+ problems solved 
+ <br>
+- Codeshef: 30 contests ▪️ 100+ problems solved  
+<br>
+- ICPC: 2× Dhaka Regional participations  
+<br>
+- IUPC: 20 national contests
 
 ---
 
