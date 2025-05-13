@@ -19,8 +19,6 @@ University of Chittagong, Chattagram
 ---
 
 ## 💻 Programming Profiles & Stats
-## 💻 Programming Profiles & Stats
-
 <p align="center">
   <!-- Codeforces -->
   <img src="https://img.shields.io/badge/Codeforces–170%20contests-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="CF Contests" />
@@ -34,7 +32,6 @@ University of Chittagong, Chattagram
   <img src="https://img.shields.io/badge/ICPC–2×%20Dhaka%20Region-purple?style=for-the-badge&logo=icpc&logoColor=white" alt="ICPC" />
   <img src="https://img.shields.io/badge/IUPC–20%20national%20contests-green?style=for-the-badge&logo=icpc&logoColor=white" alt="IUPC" />
 </p>
-
 ---
 
 ## 🏆 Achievements
