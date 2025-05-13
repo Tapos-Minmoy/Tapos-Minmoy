@@ -99,7 +99,10 @@ University of Chittagong, Chattagram
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tapos-Minmoy&theme=radical&hide=Jupyter%20Notebook" alt="Top Languages" />
-  <img src="https://img.shields.io/badge/All--Time%20Commits-90%2B-blue?style=for-the-badge" alt="All-Time Commits">
+  <!-- Static all-time commits badge -->
+  <img src="https://img.shields.io/badge/All--Time%20Commits-90-blue?style=for-the-badge&logo=git&logoColor=white" alt="All-Time Commits" />
+
+  <!-- GitHub-Readme-Stats Top Languages card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tapos-Minmoy&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
