@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Set up GitHub CLI
-        uses: actions/setup-gh@v2
+        uses: actions/setup-gh@v2.1.0
 
       - name: Authenticate GH CLI
         run: gh auth setup-git
@@ -46,8 +46,3 @@ jobs:
           git add commit-count.json
           git commit -m "chore: update all-time commit count" || echo "No changes"
           git push
-          - name: Authenticate GH CLI
-  env:
-    GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  run: gh auth login --with-token <<< "$GH_TOKEN"
-
