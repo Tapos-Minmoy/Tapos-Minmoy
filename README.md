@@ -39,7 +39,9 @@ University of Chittagong, Chattagram
   <img src="https://img.shields.io/badge/ICPC–2×%20Dhaka%20Region-purple?style=for-the-badge&logo=icpc&logoColor=white" alt="ICPC" />
   <img src="https://img.shields.io/badge/IUPC–20%20national%20contests-green?style=for-the-badge&logo=icpc&logoColor=white" alt="IUPC" />
 </p>
-
+  <p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tapos-Minmoy&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 ---
 
 ## 🏆 Achievements
@@ -101,8 +103,5 @@ University of Chittagong, Chattagram
 <p align="center">
   <!-- Static all-time commits badge -->
   <img src="https://img.shields.io/badge/All--Time%20Commits-90-blue?style=for-the-badge&logo=git&logoColor=white" alt="All-Time Commits" />
-
-  <!-- GitHub-Readme-Stats Top Languages card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tapos-Minmoy&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
