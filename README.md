@@ -95,8 +95,7 @@ University of Chittagong, Chattagram
 
 ## 📫 How to Reach Me
 - ✉️ tapos0865@gmail.com  
-- 📱 +880 1701462286  
-- 🌐 Chattagram, Bangladesh  
+- 🌐 Dhaka, Bangladesh  
 
 ---
 
