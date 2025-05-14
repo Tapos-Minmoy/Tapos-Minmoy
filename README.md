@@ -61,7 +61,9 @@ University of Chittagong, Chattagram
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tapos-Minmoy&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tapos-Minmoy&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 ### 🔍 Android Vlogging & AI Detection App  
 **Personal Project** | 2023  
 - **Stack:** Java ∙ Kotlin ∙ WebSocket ∙ Maps SDK ∙ TensorFlow Lite  
@@ -100,8 +102,4 @@ University of Chittagong, Chattagram
 - 🌐 Dhaka, Bangladesh  
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tapos-Minmoy&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
 
