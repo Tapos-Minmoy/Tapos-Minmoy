@@ -9,8 +9,6 @@
   <a href="https://www.linkedin.com/in/tapos-das-minmoy-ba488a284/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/Tapos-Minmoy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
----
-
 ## 🎓 Education
 **B.Sc. in Computer Science & Engineering**  
 University of Chittagong, Chattagram  
