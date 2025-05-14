@@ -60,6 +60,10 @@ University of Chittagong, Chattagram
 
 ## 🚀 Projects
 
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tapos-Minmoy&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 ### 🔍 Android Vlogging & AI Detection App  
 **Personal Project** | 2023  
 - **Stack:** Java ∙ Kotlin ∙ WebSocket ∙ Maps SDK ∙ TensorFlow Lite  
