@@ -64,6 +64,7 @@ University of Chittagong, Chattagram
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tapos-Minmoy&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
+
 ### 🔍 Android Vlogging & AI Detection App  
 **Personal Project** | 2023  
 - **Stack:** Java ∙ Kotlin ∙ WebSocket ∙ Maps SDK ∙ TensorFlow Lite  
