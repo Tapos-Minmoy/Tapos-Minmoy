@@ -14,7 +14,7 @@
 ## 🎓 Education
 **B.Sc. in Computer Science & Engineering**  
 University of Chittagong, Chattagram  
-📅 Jan 2020 – Aug 2025 (Expected)
+📅 2020 – 2025 
 
 ---
 
