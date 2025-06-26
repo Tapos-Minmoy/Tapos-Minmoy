@@ -29,9 +29,9 @@ University of Chittagong, Chattagram
   <br>
 
   <!-- CodeChef -->
-   <img src="https://img.shields.io/badge/CC%20Rating–4★%201994-orange?style=for-the-badge&logo=codechef&logoColor=white" alt="CC Rating" />
-  <img src="https://img.shields.io/badge/CodeChef–30%20contests-orange?style=for-the-badge&logo=codechef&logoColor=white" alt="CC Contests" />
-  <img src="https://img.shields.io/badge/CC%20Problems–100%2B%20solved-orange?style=for-the-badge&logo=codechef&logoColor=white" alt="CC Problems" />
+   <img src="https://img.shields.io/badge/CC%20Rating–5★%202010-orange?style=for-the-badge&logo=codechef&logoColor=white" alt="CC Rating" />
+  <img src="https://img.shields.io/badge/CodeChef–30+ %20contests-orange?style=for-the-badge&logo=codechef&logoColor=white" alt="CC Contests" />
+  <img src="https://img.shields.io/badge/CC%20Problems–150%2B%20solved-orange?style=for-the-badge&logo=codechef&logoColor=white" alt="CC Problems" />
  
   <br>
 
